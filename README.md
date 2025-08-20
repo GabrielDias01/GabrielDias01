@@ -1,35 +1,31 @@
 # Olá, eu sou Gabriel! 👋
 
-Sou desenvolvedor apaixonado por tecnologia, com foco em **backend** e **automação**. Sempre em busca de novos desafios e aprendizados!
+Sou desenvolvedor com forte interesse em tecnologia, com foco em backend, banco de dados e análise de dados. Estou sempre em busca de novos desafios e oportunidades que contribuam para meu desenvolvimento técnico e profissional.
 
 ## 📫 Onde me encontrar:
 
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin/)
-- [Twitter](https://twitter.com/seutwitter)
-- [Portfólio](https://seuportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-dias-a3387a249/)
+- [Gmail](gabrieldiassr@gmail.com)
 
 ## 🚀 Tecnologias que uso:
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-- ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=ffffff)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)
 
-## 🔭 Projetos:
-
-- [Projeto 1 - Gerenciador de Tarefas](https://github.com/seu-usuario/projeto-1)
-- [Projeto 2 - API de Previsão do Tempo](https://github.com/seu-usuario/projeto-2)
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielDias01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDias01&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielDias01&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDias01&layout=compact&theme=radical&card_width=495" />
+    </td>
+  </tr>
+</table>
 
 
-## 🌱 O que estou aprendendo:
 
-- **Docker** e **Kubernetes** para deploy de containers.
-- **Machine Learning** com **Python**.
-- Melhorando minhas habilidades em **Testes Unitários** e **Automação**.
 
 
