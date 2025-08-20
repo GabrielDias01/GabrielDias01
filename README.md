@@ -23,7 +23,7 @@ Sou desenvolvedor apaixonado por tecnologia, com foco em **backend** e **automa�
 ## 📊 GitHub Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielDias01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDias01&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDias01&layout=compact&theme=radical)
 
 
 ## 🌱 O que estou aprendendo:
